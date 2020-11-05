@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jars/cloudanalyst.jar"/>
+	<classpathentry kind="lib" path="jars/gridsim.jar"/>
+	<classpathentry kind="lib" path="jars/iText-2.1.5.jar"/>
+	<classpathentry kind="lib" path="jars/simjava2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/commons-math3-3.2/commons-math3-3.2.jar"/>
+	<classpathentry kind="lib" path="E:/commons-math3-3.2/commons-math3-3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/commons-math3-3.2/commons-math3-3.2-sources.jar"/>
+	<classpathentry kind="lib" path="E:/commons-math3-3.2/commons-math3-3.2-tests.jar"/>
+	<classpathentry kind="lib" path="E:/commons-math3-3.2/commons-math3-3.2-test-sources.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
